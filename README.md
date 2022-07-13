@@ -1,0 +1,2 @@
+# Dialog
+Ex. de automação
